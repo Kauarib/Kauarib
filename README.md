@@ -17,7 +17,7 @@
 ## 🧠 Stack Principal
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,laravel,react,js,html,css,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,react,js,html,css,mysql,git,github" />
 </p>
 
 ---
